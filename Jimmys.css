@@ -1,0 +1,37 @@
+.navbar-liste{
+
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    justify-content: space-between;
+    flex: 4;
+
+
+}
+
+.jimmys{
+
+    height: 100px;
+    width: 100px;
+
+}
+
+.navbar{
+
+    display: flex;
+    align-items: center;
+}
+/*
+    .body{
+        background-color: #1B1B1B;
+    }
+*/
+.main-image1{
+
+height: 650px;
+width:650px;
+position: absolute;
+top: 0%;
+right: 0%;
+
+z-index: 2;
